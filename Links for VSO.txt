@@ -1,0 +1,43 @@
+Code review in GIT in VSO
+
+http://blogs.msdn.com/b/visualstudioalm/archive/2014/06/10/git-pull-request-visual-studio-online.aspx
+
+Branching in GIT
+
+http://blogs.msdn.com/b/visualstudioalm/archive/2013/01/30/getting-started-with-git-in-visual-studio-and-team-foundation-service.aspx
+
+Code review in TVCS
+http://www.visualstudio.com/en-us/get-started/get-code-reviewed-vs.aspx
+
+Build Template customization in VSO
+https://msdn.microsoft.com/en-us/library/dd647551.aspx
+http://www.software-architects.com/devblog/2014/02/21/Customizing-Build-Workflows-in-Visual-Studio-Online
+
+Continuous Integration
+http://azure.microsoft.com/en-us/documentation/articles/cloud-services-continuous-delivery-use-vso-git/
+
+Configure Build Controllers on VSO
+On-Prem - http://myalmblog.com/2014/04/configuring-on-premises-build-server-for-visual-studio-online/
+VSO - http://blogs.msdn.com/b/mcsuksoldev/archive/2014/02/12/hosting-a-tfs-build-controller-on-windows-azure-and-connecting-to-visual-studio-online.aspx
+http://www.4tecture.ch/blog/custom-build-controller-and-agent-for-visual-studio-online
+
+Resolving Conflict - 
+Youtube Video - https://www.youtube.com/watch?v=SdIBDuF_eQ0
+Tools - git extensions, git gotchas
+
+GIT Book
+http://git-scm.com/book/en/v2
+
+GIT Training-
+https://www.codeschool.com/courses/try-git
+https://www.codeschool.com/courses/git-real
+http://pcottle.github.io/learnGitBranching/
+
+GIT vs VSO Commands
+http://roadtoalm.com/2013/07/19/a-starters-guide-to-git-for-tfs-gitwits/
+
+VM User Details
+VM Name: GTSController
+user - GTSBuildUser
+Ped: BldP@$$w0rd
+
